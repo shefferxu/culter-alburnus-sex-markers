@@ -1,0 +1,122 @@
+[
+  {
+    "file": "tables/R1_part_01.tsv",
+    "heading": "Table S1A. Candidate identities and alleles — rows 1–10",
+    "rows": 10,
+    "source_table_index": 1
+  },
+  {
+    "file": "tables/R1_part_02.tsv",
+    "heading": "Table S1A. Candidate identities and alleles — rows 11–20",
+    "rows": 10,
+    "source_table_index": 2
+  },
+  {
+    "file": "tables/R1_part_03.tsv",
+    "heading": "Table S1A. Candidate identities and alleles — rows 21–30",
+    "rows": 10,
+    "source_table_index": 3
+  },
+  {
+    "file": "tables/R1_part_04.tsv",
+    "heading": "Table S1A. Candidate identities and alleles — rows 31–40",
+    "rows": 10,
+    "source_table_index": 4
+  },
+  {
+    "file": "tables/R1_part_05.tsv",
+    "heading": "Table S1A. Candidate identities and alleles — rows 41–50",
+    "rows": 10,
+    "source_table_index": 5
+  },
+  {
+    "file": "tables/R1_part_06.tsv",
+    "heading": "Table S1B. Discovery-cohort genotype counts — rows 1–20",
+    "rows": 20,
+    "source_table_index": 6
+  },
+  {
+    "file": "tables/R1_part_07.tsv",
+    "heading": "Table S1B. Discovery-cohort genotype counts — rows 21–40",
+    "rows": 20,
+    "source_table_index": 7
+  },
+  {
+    "file": "tables/R1_part_08.tsv",
+    "heading": "Table S1B. Discovery-cohort genotype counts — rows 41–50",
+    "rows": 10,
+    "source_table_index": 8
+  },
+  {
+    "file": "tables/R1_part_09.tsv",
+    "heading": "Table S1C. Recalculated frequencies and missingness — rows 1–20",
+    "rows": 20,
+    "source_table_index": 9
+  },
+  {
+    "file": "tables/R1_part_10.tsv",
+    "heading": "Table S1C. Recalculated frequencies and missingness — rows 21–40",
+    "rows": 20,
+    "source_table_index": 10
+  },
+  {
+    "file": "tables/R1_part_11.tsv",
+    "heading": "Table S1C. Recalculated frequencies and missingness — rows 41–50",
+    "rows": 10,
+    "source_table_index": 11
+  },
+  {
+    "file": "tables/R2_part_12.tsv",
+    "heading": "Table S2. Candidate-gene and selected-SNP positional audit",
+    "rows": 3,
+    "source_table_index": 12
+  },
+  {
+    "file": "tables/R2_part_13.tsv",
+    "heading": "Table S2 continued. 9 targeted SNPs",
+    "rows": 9,
+    "source_table_index": 13
+  },
+  {
+    "file": "tables/R4_part_18.tsv",
+    "heading": "Table S4A. Females — exact source-report sequencing statistics",
+    "rows": 12,
+    "source_table_index": 18
+  },
+  {
+    "file": "tables/R4_part_19.tsv",
+    "heading": "Table S4A. Males — exact source-report sequencing statistics",
+    "rows": 12,
+    "source_table_index": 19
+  },
+  {
+    "file": "tables/R5_part_20.tsv",
+    "heading": "Table S5A. Public assembly and marker-correspondence analysis",
+    "rows": 7,
+    "source_table_index": 20
+  },
+  {
+    "file": "tables/R5_part_21.tsv",
+    "heading": "Table S5B. Selected HSPs of the predicted 1123-bp product against ASM4018292v1",
+    "rows": 4,
+    "source_table_index": 21
+  },
+  {
+    "file": "tables/R6A_part_22.tsv",
+    "heading": "Table S6A. Individual archived SNP2 genotypes in the 24-fish discovery cohort.",
+    "rows": 24,
+    "source_table_index": 22
+  },
+  {
+    "file": "tables/R6B_part_23.tsv",
+    "heading": "Table S6B. Individual archived Marker10 genotypes in the 24-fish discovery cohort.",
+    "rows": 24,
+    "source_table_index": 23
+  },
+  {
+    "file": "tables/R7_part_24.tsv",
+    "heading": "Table S7. Public SRA accessions for the 24 discovery fish (BioProject PRJNA1498283).",
+    "rows": 24,
+    "source_table_index": 24
+  }
+]

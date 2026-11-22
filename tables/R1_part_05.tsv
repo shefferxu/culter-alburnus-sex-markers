@@ -1,0 +1,11 @@
+Key	Original candidate ID	Position (bp)	REF	ALT	ALT–REF length (bp)	Inside
+S41	Extended_marker_031_Chr19_41456895	41,456,895	A	G	0	No
+S42	Fig4_marker_01_13261474	13,261,474	A	G	0	Yes
+S43	Fig4_marker_02_13556322	13,556,322	G	A	0	Yes
+S44	Fig4_marker_03_13265952	13,265,952	C	T	0	Yes
+S45	Fig4_marker_04_13610073	13,610,073	C	A	0	Yes
+S46	Fig4_marker_05_13608066	13,608,066	G	A	0	Yes
+S47	Fig4_marker_06_13607502	13,607,502	G	A	0	Yes
+S48	Fig4_marker_07_11561895	11,561,895	A	G	0	Yes
+S49	Fig4_marker_08_11563136	11,563,136	G	A	0	Yes
+S50	Fig4_marker_09_11559063	11,559,063	G	T	0	Yes

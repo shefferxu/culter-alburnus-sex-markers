@@ -1,0 +1,8 @@
+Evidence	Observation / setting	Interpretation
+Public assembly	126 sequences; 1,077,993,612 bp. tc_LG04: 58,833,909 bp; GFF3 label LG04.	Shared team; exact LG4-study reference version unverified.
+Published primers	F: GCAGTCACATGATCCTTTTTCTC; R: GGTAACCAAATAGTTGGTGACC	Full-length ungapped searches, 0 or ≤2 substitutions per primer.
+Predicted product	tc_LG01:2,294,465–2,295,587; 1123 bp; unique inward pair at 100–5000 bp.	Marker anchor; not entire LG4 correspondence.
+Sensitive search	BLAST+ 2.17.0 blastn; word 11; DUST/soft masking off; E ≤ 1e−10.	539 product HSPs across 24 chromosomes.
+Masked search	megablast; word 28; DUST/soft masking on; identity ≥90%; E ≤ 1e−20.	2 short product hits on Chr17; none on Chr19.
+Extended flanks	100 kb per side; 40 × 5-kb tiles; megablast, word 28, DUST/soft masking on; identity ≥95%, HSP query coverage ≥70%, E ≤ 1e−50.	2/40 tiles pass; 5 HSPs; no coherent two-sided placement.
+Scope	All 37 ASM4018292v1 sequences; max_target_seqs = 100.	No resolved LG4–Chr19 interval correspondence.

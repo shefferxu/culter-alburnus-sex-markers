@@ -1,0 +1,4 @@
+Locus tag / prediction	Gene interval; strand	Protein / length	Reviewed match / species	Identity; E-value
+ABG768_011658 / RAR-alpha-like	13,333,292–13,367,918; +	KAK9957409.1 / 451 aa	Q7ZTI3 / Danio rerio	95.63%; 0
+ABG768_011661 / RBBP4-like	13,581,517–13,587,890; −	KAK9957412.1 / 424 aa	Q6P3H7 / Danio rerio	99.53%; 0
+ABG768_011612 / THAP-domain candidate	11,539,829–11,547,644; +	KAK9957361.1 / 451 aa	Q5U208 / Rattus norvegicus	39.84%; 1.45133 × 10−17

@@ -1,0 +1,11 @@
+Key	Original candidate ID	Position (bp)	REF	ALT	ALT–REF length (bp)	Inside
+S11	Extended_marker_001_Chr19_11551939	11,551,939	T	C	0	Yes
+S12	Extended_marker_002_Chr19_11554106	11,554,106	T	C	0	Yes
+S13	Extended_marker_003_Chr19_11552511	11,552,511	G	A	0	Yes
+S14	Extended_marker_004_Chr19_11551626	11,551,626	A	C	0	Yes
+S15	Extended_marker_005_Chr19_13594820	13,594,820	A	G	0	Yes
+S16	Extended_marker_006_Chr19_11732997	11,732,997	A	C	0	Yes
+S17	Extended_marker_007_Chr19_20535195	20,535,195	C	A	0	No
+S18	Extended_marker_008_Chr19_20533813	20,533,813	G	T	0	No
+S19	Extended_marker_009_Chr19_20531969	20,531,969	G	A	0	No
+S20	Extended_marker_010_Chr19_20534503	20,534,503	C	T	0	No

@@ -1,0 +1,5 @@
+Search / hit	Chr	Start	End	Query span (bp)	Query coverage (%)	Identity (%)	Interpretation
+Sensitive: best score	19	4,380,100	4,380,587	462	41.14	78.732	Outside interval; partial
+Sensitive: interval hit	19	13,402,183	13,402,404	222	19.77	83.406	Inside interval; short
+Sensitive: interval hit	19	11,617,003	11,617,190	175	15.58	71.579	Inside interval; short
+Masked: best score	17	4,498,329	4,498,448	120	10.69	92.500	Short reverse-strand hit

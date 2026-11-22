@@ -1,0 +1,27 @@
+[
+  {
+    "file": "sequence_comparisons/lg4_20261008_queries.fasta",
+    "original_sha256": "c0052b584c402ca6546742586393fcb5ecf69d6a87540be90da0fa23bdf14cc2",
+    "original_bytes": 43361
+  },
+  {
+    "file": "sequence_comparisons/lg4_20261008_100kb_tiles.fasta",
+    "original_sha256": "095348f09524de2a37702c02b0971022292ca8a0b4263aa5daec250a20e1ff88",
+    "original_bytes": 206100
+  },
+  {
+    "file": "sequence_comparisons/lg4_20261008_blastn.tsv.gz",
+    "original_sha256": "dcbcb9b8ef83322071cc224d61a3e96e4eb6cffcab5bee0e1c83c9ac733d94b8",
+    "original_bytes": 32982977
+  },
+  {
+    "file": "sequence_comparisons/lg4_20261008_megablast_masked.tsv.gz",
+    "original_sha256": "abeb8096fcf1a33664595c319f8eac918e760c0f8fb01359d164e8d5a351248f",
+    "original_bytes": 6077675
+  },
+  {
+    "file": "sequence_comparisons/lg4_20261008_100kb_tiles.tsv",
+    "original_sha256": "98ebb52e0039f4d65d38833e62724176f7363b3c3f9c88dc71a1d14f6cd316a0",
+    "original_bytes": 525
+  }
+]
