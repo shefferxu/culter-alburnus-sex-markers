@@ -16,7 +16,7 @@ The manuscript reports experimental performance using the author-reported Sanger
 
 ## Discovery-cohort discrepancy
 
-At SNP2 (CM079600.1:13,556,322; REF G, ALT A), the archived sample m1, displayed as BY_M1, is GG (GT 0/0, DP 21, GQ 60, AD 21,0). This agrees between the combined and SNP-only VCFs. The author-reported experimental summary states AG for all 12 discovery males. The individual BY_M1 Sanger trace and its sample correspondence have not yet been reconciled. The cause of the discrepancy remains unresolved. Repository relocation does not resolve or invalidate either record.
+At SNP2 (CM079600.1:13,556,322; REF G, ALT A), the archived sample m1, displayed as BY_M1, is GG (GT 0/0, DP 21, GQ 60, AD 21,0). This agrees between the combined and SNP-only VCFs. The authors report that they rechecked the laboratory records and confirmed AG for all 12 discovery males, including BY_M1. The original resequencing calls are retained unchanged. The cause of the discrepancy between the VCF and laboratory records remains unresolved.
 
 Marker10 visible bands have not been sequenced; reference-based amplicon predictions do not establish the identity of the observed bands.
 
